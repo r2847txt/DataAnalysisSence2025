@@ -1,0 +1,23 @@
+Estoy trabajando con 3 archivos excel para un curso de analasis de datos utilizando principalmente la libreria pandas y numpy, los archivos son los siguientes:
+sdbcol_092021.xlsx (Colocación): contiene hojas llamadas 1_01, 1_02, 1_03 hasta 1_10
+sdbdep_092021.xlsx (Captación): contiene hojas llamadas 2_01, 2_02, 2_03 hasta la 2_09
+sdbinv_092021.xlsx (Inversión): contiene hojas llamadas 3_01, 3_02, 3_03 hasta 3_13
+
+Toma en consideracion lo siguiente:
+- las columnas utilizadas son desde la B hasta FK
+- las filas utilizadas son desde la 6 hasta la 33 (la ultima muestra los totales)
+- el rango C6:FK6 contiene fechas
+- el rango C7:FK32 contiene los valores
+- el rango B7:B32 contiene la institución financiera
+- en la celda B3 se encuentra el subtipo de cada hoja
+- en la celda B4 se encuentra el tipo de moneda
+- para "Saldos en millones de pesos" debe quedar como CLP
+- para "Saldos en millones de dólares" debe quedar como USD
+
+El archivo de salida debe considerar las siguientes columnas:
+- Fecha
+- Institución Financiera
+- Tipo (colocación, captación, inversión)
+- Subtipo
+- Valor (millones)
+- Tipo de moneda
