@@ -1,0 +1,101 @@
+id_cliente,nombre,pais,pedidos
+1,Felipe Herrera,Colombia,3
+2,Diego Herrera,Espana,13
+3,Ricardo Flores,Chile,20
+4,Diego Munoz,Estados Unidos,10
+5,Diego Silva,Colombia,6
+6,Hector Flores,Peru,13
+7,Jorge Martinez,Brasil,7
+8,Camila Flores,Argentina,1
+9,Hector Gonzalez,Argentina,7
+10,Jorge Herrera,Brasil,15
+11,Maria Lopez,Chile,5
+12,Paula Gonzalez,Estados Unidos,8
+13,Daniela Sepulveda,Estados Unidos,17
+14,Felipe Perez,Colombia,9
+15,Maria Munoz,Chile,10
+16,Luis Munoz,Brasil,16
+17,Isabella Soto,Chile,16
+18,Camila Soto,Argentina,19
+19,Camila Silva,Estados Unidos,3
+20,Lucia Silva,Chile,19
+21,Camila Herrera,Espana,8
+22,Maria Morales,Colombia,8
+23,Paula Perez,Mexico,14
+24,Fernanda Rojas,Chile,14
+25,Matias Reyes,Argentina,2
+26,Hector Contreras,Mexico,4
+27,Andres Rojas,Colombia,11
+28,Carlos Soto,Brasil,17
+29,Carlos Navarro,Chile,17
+30,Carlos Diaz,Peru,8
+31,Diego Diaz,Peru,8
+32,Carlos Navarro,Colombia,10
+33,Maria Martinez,Brasil,8
+34,Luis Rojas,Estados Unidos,8
+35,Luis Gonzalez,Espana,4
+36,Sofia Soto,Brasil,17
+37,Ricardo Vargas,Chile,3
+38,Camila Perez,Chile,11
+39,Lucia Vargas,Peru,13
+40,Valentina Munoz,Mexico,11
+41,Luis Rodriguez,Colombia,7
+42,Diego Rodriguez,Estados Unidos,19
+43,Valentina Silva,Peru,5
+44,Ricardo Gonzalez,Peru,10
+45,Ricardo Silva,Mexico,5
+46,Diego Lopez,Chile,15
+47,Pedro Contreras,Brasil,11
+48,Carlos Silva,Colombia,0
+49,Maria Lopez,Espana,8
+50,Camila Martinez,Espana,20
+51,Isabella Lopez,Espana,0
+52,Diego Martinez,Peru,18
+53,Sofia Munoz,Argentina,19
+54,Ricardo Rodriguez,Espana,13
+55,Matias Torres,Argentina,12
+56,Lucia Contreras,Mexico,1
+57,Ricardo Gonzalez,Colombia,11
+58,Ricardo Rojas,Espana,19
+59,Fernanda Diaz,Mexico,16
+60,Carlos Herrera,Espana,12
+61,Carlos Vargas,Peru,6
+62,Ricardo Lopez,Peru,19
+63,Lucia Sepulveda,Estados Unidos,17
+64,Ana Sepulveda,Mexico,6
+65,Ricardo Reyes,Espana,14
+66,Daniela Flores,Colombia,16
+67,Felipe Soto,Argentina,9
+68,Isabella Navarro,Espana,2
+69,Pedro Sepulveda,Colombia,6
+70,Valentina Gonzalez,Chile,7
+71,Felipe Navarro,Argentina,14
+72,Ricardo Reyes,Colombia,12
+73,Felipe Lopez,Colombia,4
+74,Ana Diaz,Estados Unidos,7
+75,Jorge Torres,Brasil,1
+76,Hector Silva,Argentina,14
+77,Valentina Flores,Espana,14
+78,Matias Torres,Estados Unidos,17
+79,Daniela Soto,Brasil,14
+80,Sofia Silva,Mexico,16
+81,Felipe Silva,Mexico,14
+82,Camila Sepulveda,Colombia,8
+83,Fernanda Morales,Argentina,4
+84,Valentina Silva,Estados Unidos,4
+85,Maria Rojas,Estados Unidos,13
+86,Fernanda Vargas,Brasil,13
+87,Luis Contreras,Estados Unidos,12
+88,Lucia Gonzalez,Estados Unidos,15
+89,Ana Rodriguez,Mexico,12
+90,Ricardo Vargas,Colombia,15
+91,Pedro Martinez,Estados Unidos,15
+92,Ana Lopez,Espana,12
+93,Jorge Flores,Peru,19
+94,Hector Gonzalez,Estados Unidos,18
+95,Lucia Gonzalez,Argentina,20
+96,Ricardo Perez,Brasil,5
+97,Luis Martinez,Estados Unidos,10
+98,Maria Flores,Espana,10
+99,Paula Martinez,Estados Unidos,8
+100,Camila Castillo,Chile,17
