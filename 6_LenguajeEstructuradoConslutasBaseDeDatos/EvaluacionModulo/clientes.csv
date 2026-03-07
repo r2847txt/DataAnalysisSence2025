@@ -1,0 +1,121 @@
+﻿id_cliente,nombre,email,ciudad
+1,Camila Díaz,camila.diaz1@correo.cl,Santiago
+2,Diego Martínez,diego.martinez2@correo.cl,Concepción
+3,Joaquín Pérez,joaquin.perez3@correo.cl,Valparaíso
+4,Lucas Flores,lucas.flores4@correo.cl,Valparaíso
+5,Amanda Fuentes,amanda.fuentes5@correo.cl,Santiago
+6,Sofía Rojas,sofia.rojas6@correo.cl,Concepción
+7,Joaquín Araya,joaquin.araya7@correo.cl,Puerto Montt
+8,Sofía Flores,sofia.flores8@correo.cl,Concepción
+9,Renata Flores,renata.flores9@correo.cl,Antofagasta
+10,Joaquín Hernández,joaquin.hernandez10@correo.cl,Puerto Montt
+11,Martina González,martina.gonzalez11@correo.cl,Viña del Mar
+12,Renata Fuentes,renata.fuentes12@correo.cl,Temuco
+13,Martina Pérez,martina.perez13@correo.cl,Concepción
+14,Trinidad Morales,trinidad.morales14@correo.cl,Valparaíso
+15,Valentina López,valentina.lopez15@correo.cl,Valparaíso
+16,Agustín Rodríguez,agustin.rodriguez16@correo.cl,Puerto Montt
+17,Martina Muñoz,martina.munoz17@correo.cl,Rancagua
+18,Gabriel Díaz,gabriel.diaz18@correo.cl,Antofagasta
+19,Valentina Flores,valentina.flores19@correo.cl,La Serena
+20,Paz Valenzuela,paz.valenzuela20@correo.cl,Temuco
+21,Amanda Contreras,amanda.contreras21@correo.cl,Valparaíso
+22,Mateo Silva,mateo.silva22@correo.cl,La Serena
+23,Valentina Silva,valentina.silva23@correo.cl,Valparaíso
+24,Antonia Martínez,antonia.martinez24@correo.cl,Rancagua
+25,Camila Rodríguez,camila.rodriguez25@correo.cl,Viña del Mar
+26,Emilia Martínez,emilia.martinez26@correo.cl,Valparaíso
+27,Felipe Soto,felipe.soto27@correo.cl,Talca
+28,Diego Silva,diego.silva28@correo.cl,Viña del Mar
+29,Catalina López,catalina.lopez29@correo.cl,La Serena
+30,Cristóbal Flores,cristobal.flores30@correo.cl,Concepción
+31,Lucas Morales,lucas.morales31@correo.cl,Santiago
+32,Joaquín Muñoz,joaquin.munoz32@correo.cl,Temuco
+33,Valentina Contreras,valentina.contreras33@correo.cl,Puerto Montt
+34,Maite Morales,maite.morales34@correo.cl,Concepción
+35,Camila Torres,camila.torres35@correo.cl,Antofagasta
+36,Maite Hernández,maite.hernandez36@correo.cl,Viña del Mar
+37,Joaquín Flores,joaquin.flores37@correo.cl,Talca
+38,Martina Espinoza,martina.espinoza38@correo.cl,Antofagasta
+39,Maite Espinoza,maite.espinoza39@correo.cl,Antofagasta
+40,Agustín Silva,agustin.silva40@correo.cl,Viña del Mar
+41,Josefa Torres,josefa.torres41@correo.cl,Valparaíso
+42,Trinidad Muñoz,trinidad.munoz42@correo.cl,Valparaíso
+43,Isidora Soto,isidora.soto43@correo.cl,Antofagasta
+44,Felipe Rojas,felipe.rojas44@correo.cl,Antofagasta
+45,Antonia Valenzuela,antonia.valenzuela45@correo.cl,Rancagua
+46,Josefa Martínez,josefa.martinez46@correo.cl,Talca
+47,Nicolás González,nicolas.gonzalez47@correo.cl,Valparaíso
+48,Trinidad Martínez,trinidad.martinez48@correo.cl,Temuco
+49,Benjamín Sepúlveda,benjamin.sepulveda49@correo.cl,Antofagasta
+50,Vicente Hernández,vicente.hernandez50@correo.cl,Santiago
+51,Josefa Soto,josefa.soto51@correo.cl,Talca
+52,Cristóbal Díaz,cristobal.diaz52@correo.cl,La Serena
+53,Paz Araya,paz.araya53@correo.cl,Puerto Montt
+54,Emilia Pérez,emilia.perez54@correo.cl,Temuco
+55,Trinidad Soto,trinidad.soto55@correo.cl,Talca
+56,Trinidad Araya,trinidad.araya56@correo.cl,Santiago
+57,Felipe Morales,felipe.morales57@correo.cl,Rancagua
+58,Sofía Díaz,sofia.diaz58@correo.cl,Temuco
+59,Maite Sepúlveda,maite.sepulveda59@correo.cl,Concepción
+60,Valentina Rojas,valentina.rojas60@correo.cl,Rancagua
+61,Paz Rojas,paz.rojas61@correo.cl,Talca
+62,Trinidad Pérez,trinidad.perez62@correo.cl,Viña del Mar
+63,Lucas Torres,lucas.torres63@correo.cl,Talca
+64,Vicente Martínez,vicente.martinez64@correo.cl,Talca
+65,Nicolás Valenzuela,nicolas.valenzuela65@correo.cl,Antofagasta
+66,Emilia Flores,emilia.flores66@correo.cl,Concepción
+67,Renata Sepúlveda,renata.sepulveda67@correo.cl,Antofagasta
+68,Lucas Rodríguez,lucas.rodriguez68@correo.cl,Rancagua
+69,Maite Araya,maite.araya69@correo.cl,Rancagua
+70,Benjamín Silva,benjamin.silva70@correo.cl,Concepción
+71,Valentina Morales,valentina.morales71@correo.cl,Santiago
+72,Amanda Flores,amanda.flores72@correo.cl,Concepción
+73,Amanda Silva,amanda.silva73@correo.cl,Santiago
+74,Valentina Muñoz,valentina.munoz74@correo.cl,Concepción
+75,Nicolás Morales,nicolas.morales75@correo.cl,Valparaíso
+76,Josefa Silva,josefa.silva76@correo.cl,La Serena
+77,Isidora Espinoza,isidora.espinoza77@correo.cl,Puerto Montt
+78,Sebastián Silva,sebastian.silva78@correo.cl,Rancagua
+79,Martín Fuentes,martin.fuentes79@correo.cl,Concepción
+80,Benjamín Díaz,benjamin.diaz80@correo.cl,Antofagasta
+81,Agustín Fuentes,agustin.fuentes81@correo.cl,Antofagasta
+82,Catalina Muñoz,catalina.munoz82@correo.cl,Valparaíso
+83,Mateo López,mateo.lopez83@correo.cl,Temuco
+84,Martín Díaz,martin.diaz84@correo.cl,Concepción
+85,Emilia Contreras,emilia.contreras85@correo.cl,Talca
+86,Catalina Pérez,catalina.perez86@correo.cl,Antofagasta
+87,Catalina Silva,catalina.silva87@correo.cl,Valparaíso
+88,Catalina Flores,catalina.flores88@correo.cl,Valparaíso
+89,Mateo Flores,mateo.flores89@correo.cl,Santiago
+90,Vicente Fuentes,vicente.fuentes90@correo.cl,Rancagua
+91,Sebastián Contreras,sebastian.contreras91@correo.cl,Antofagasta
+92,Maite Muñoz,maite.munoz92@correo.cl,Viña del Mar
+93,Antonia González,antonia.gonzalez93@correo.cl,Antofagasta
+94,Martina Hernández,martina.hernandez94@correo.cl,La Serena
+95,Maximiliano Flores,maximiliano.flores95@correo.cl,Rancagua
+96,Isidora Contreras,isidora.contreras96@correo.cl,La Serena
+97,Emilia Muñoz,emilia.munoz97@correo.cl,Puerto Montt
+98,Diego Flores,diego.flores98@correo.cl,Santiago
+99,Diego Morales,diego.morales99@correo.cl,Santiago
+100,Mateo Espinoza,mateo.espinoza100@correo.cl,Rancagua
+101,Josefa Araya,josefa.araya101@correo.cl,Viña del Mar
+102,Mateo Araya,mateo.araya102@correo.cl,Valparaíso
+103,Nicolás Soto,nicolas.soto103@correo.cl,Valparaíso
+104,Lucas Silva,lucas.silva104@correo.cl,Antofagasta
+105,Benjamín Espinoza,benjamin.espinoza105@correo.cl,Concepción
+106,Amanda Valenzuela,amanda.valenzuela106@correo.cl,Santiago
+107,Maximiliano Espinoza,maximiliano.espinoza107@correo.cl,Puerto Montt
+108,Josefa Morales,josefa.morales108@correo.cl,La Serena
+109,Emilia Morales,emilia.morales109@correo.cl,Concepción
+110,Martina López,martina.lopez110@correo.cl,Viña del Mar
+111,Lucas Sepúlveda,lucas.sepulveda111@correo.cl,Rancagua
+112,Florencia Rojas,florencia.rojas112@correo.cl,Santiago
+113,Catalina Valenzuela,catalina.valenzuela113@correo.cl,Puerto Montt
+114,Benjamín Rojas,benjamin.rojas114@correo.cl,Talca
+115,Emilia Araya,emilia.araya115@correo.cl,La Serena
+116,Isidora Rodríguez,isidora.rodriguez116@correo.cl,Valparaíso
+117,Maite Silva,maite.silva117@correo.cl,Temuco
+118,Tomás Soto,tomas.soto118@correo.cl,Rancagua
+119,Paz Flores,paz.flores119@correo.cl,La Serena
+120,Felipe Araya,felipe.araya120@correo.cl,Santiago

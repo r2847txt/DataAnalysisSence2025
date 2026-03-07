@@ -1,0 +1,65 @@
+﻿id_producto,nombre,categoria,precio
+1,Audífonos Bluetooth,Electrónica,28980
+2,Mouse Gamer,Electrónica,21980
+3,Teclado Mecánico,Electrónica,46980
+4,Monitor 24 pulgadas,Electrónica,133980
+5,Webcam HD,Electrónica,27990
+6,Parlante Portátil,Electrónica,35490
+7,Cable USB-C,Electrónica,8980
+8,Power Bank 10000mAh,Electrónica,21990
+9,Smartwatch,Electrónica,89990
+10,Tablet 10 pulgadas,Electrónica,163980
+11,SSD 1TB,Electrónica,72980
+12,Disco Duro Externo 2TB,Electrónica,85490
+13,Hub USB,Electrónica,13980
+14,Cargador Inalámbrico,Electrónica,20980
+15,Lámpara LED Escritorio,Electrónica,18980
+16,Juego de Sábanas,Hogar,23490
+17,Almohada Viscoelástica,Hogar,21980
+18,Aspiradora Compacta,Hogar,90980
+19,Set de Toallas,Hogar,15490
+20,Silla de Oficina,Hogar,78980
+21,Mesa Lateral,Hogar,53980
+22,Organizador de Cocina,Hogar,11980
+23,Cafetera Francesa,Hogar,21980
+24,Hervidor Eléctrico,Hogar,26980
+25,Freidora de Aire,Hogar,120980
+26,Balanza Digital,Hogar,12990
+27,Difusor de Aromas,Hogar,16990
+28,Vaso Térmico,Hogar,13980
+29,Manta Polar,Hogar,15980
+30,Perchero Metálico,Hogar,36980
+31,Mat de Yoga,Deportes,14990
+32,Mancuernas 5kg,Deportes,32990
+33,Botella Deportiva,Deportes,8980
+34,Banda Elástica,Deportes,6490
+35,Balón de Fútbol,Deportes,19980
+36,Rodillo de Espuma,Deportes,18980
+37,Cuerda para Saltar,Deportes,7490
+38,Guantes de Entrenamiento,Deportes,16980
+39,Bolso Deportivo,Deportes,26980
+40,Bicicleta Estática,Deportes,222980
+41,Novela Histórica,Libros,16980
+42,Manual de SQL,Libros,20980
+43,Libro de Cocina,Libros,18980
+44,Agenda 2026,Libros,8990
+45,Guía de Finanzas Personales,Libros,16990
+46,Libro Infantil Ilustrado,Libros,11990
+47,Atlas Mundial,Libros,28980
+48,Cómic Edición Especial,Libros,22490
+49,Secador de Pelo,Belleza,42980
+50,Plancha de Cabello,Belleza,44990
+51,Set de Brochas,Belleza,15980
+52,Crema Facial,Belleza,22980
+53,Protector Solar,Belleza,16980
+54,Perfume 50ml,Belleza,36490
+55,Kit de Skincare,Belleza,44980
+56,Espejo con Luz LED,Belleza,28490
+57,Café de Especialidad 250g,Alimentos,10990
+58,Té Verde 50 sobres,Alimentos,7980
+59,Granola Premium,Alimentos,8980
+60,Miel 500g,Alimentos,8990
+61,Chocolate 70% cacao,Alimentos,5980
+62,Mix de Frutos Secos,Alimentos,10490
+63,Aceite de Oliva 500ml,Alimentos,15980
+64,Pasta Integral,Alimentos,4490
